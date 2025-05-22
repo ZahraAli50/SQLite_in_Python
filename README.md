@@ -1,5 +1,5 @@
 # SQLite_in_Python
-ales Data Analysis with SQLite and Python
+Sales Data Analysis with SQLite and Python
 
 This project demonstrates how to use **SQLite** with **Python** to store, query, and analyze basic sales data. It includes the creation of a simple sales database, insertion of sample data, and a summary query to extract total quantities and revenue per product.
 
